@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1540420828642-fca2c5c18abe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNvb2tpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 1000px;
+}
+
+.title {
+  text-align: center;
+}
+
+
+.container {
+  background-color: rgba(245, 246, 234);
+  text-align: center;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+}
