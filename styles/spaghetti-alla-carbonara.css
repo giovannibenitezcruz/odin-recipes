@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(245, 246, 234);
+  height: 2000px;
+}
+
+.recipe-list {
+  width: 500px;
+}
+
+p {
+  width: 600px;
+}
+
+.spaghetti-picture {
+  width: 600px;
+  height: auto;
+}
