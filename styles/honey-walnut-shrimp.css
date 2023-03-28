@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(245, 246, 234);
+}
+
+.shrimp-picture {
+  width: 500px;
+  height: auto;
+}
+
+p {
+  width: 500px;
+}
+
+.recipe-list {
+  width: 500px;
+}
